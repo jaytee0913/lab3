@@ -1,0 +1,14 @@
+body
+{
+    background-image: url("1.jpg");
+    background-repeat: no-repeat;
+    background-position: center; 
+    color: white;
+    font-family: arial;
+    font-size: 14pt;
+}
+
+p
+{
+	background-color: purple;
+}
